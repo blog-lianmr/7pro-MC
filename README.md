@@ -1,4 +1,4 @@
-# TofuMC官方网站 :link: https://blog-lianmr.github.io/tofumc 
+# 7+MC官方网站 :link: https://blog-lianmr.github.io/tofumc 
 ### :page_facing_up: [1](https://blog-lianmr.github.io/tofumc/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 23 
